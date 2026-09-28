@@ -5412,14 +5412,6 @@ WIP Limits: Analysis = 2, Development = 3, Code Review = 2
 | 37.10 | Headless Headhunter. Why Software Engineer Gets ZERO Interviews                       | [YouTube](https://www.youtube.com/watch?v=YMDuVH1TtPU) |
 | 37.11 | Headless Headhunter. How to Get a Software Engineer Job                               | [YouTube](https://www.youtube.com/watch?v=eC2ucWComX4) |
 
-Как выглядит лицо **рекрутера**, когда он открывает резюме **Java Backend-разработчика** без релевантных ключевых слов:
-
-<img src="assets/images/sad-hr-manager.png" alt="Как выглядит лицо рекрутера во время просмотра резюме Java Backend-разработчика" width="100%">
-
-Как должно выглядеть лицо **рекрутера** при просмотре хорошего резюме — на примере **Frontend-разработчика**:
-
-<img src="assets/images/happy-hr-manager.png" alt="Как должно выглядеть лицо рекрутера при просмотре хорошего резюме на примере Frontend-разработчика" width="100%">
-
 #### Как составить резюме?
 
 | #     | Ресурс                                                                                                                                                     | Ссылка                                                            |
