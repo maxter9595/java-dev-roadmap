@@ -36,9 +36,9 @@ Parallel Career Track
 
 - **Roadmap Java-разработчика** (этот документ) — карта, приоритеты, чек-лист, карьерный трек.
 - **План подготовки: Java Backend Developer (Middle)** — календарный план на 78 недель. Для тех, кто идёт в backend.
-  Путь: [`Interview_Prep\Plan\Backend\Readme.md`](Interview_Prep\Plan\Backend\Readme.md)
+  Путь: [`Interview_Prep/Plan/Backend/Readme.md`](Interview_Prep/Plan/Backend/Readme.md)
 - **План подготовки: Java Fullstack Developer (Middle)** — календарный план на 103 недели. Для тех, кто идёт в fullstack.
-  Путь: [`Interview_Prep\Plan\Fullstack\Readme.md`](Interview_Prep\Plan\Fullstack\Readme.md)
+  Путь: [`Interview_Prep/Plan/Fullstack/Readme.md`](Interview_Prep/Plan/Fullstack/Readme.md)
 
 Выбор одного из двух планов — за кандидатом. Roadmap охватывает оба пути и не заменяет их.
 
@@ -50,7 +50,7 @@ Parallel Career Track
 ### Как работать с системой
 
 1. Выбери путь: **Backend** или **Fullstack**.
-2. Открой соответствующий календарный план ([`Backend/Readme.md`](Interview_Prep\Plan\Backend\Readme.md) или [`Fullstack/Readme.md`](Interview_Prep\Plan\Fullstack\Readme.md)) как расписание.
+2. Открой соответствующий календарный план ([`Backend/Readme.md`](Interview_Prep/Plan/Backend/Readme.md) или [`Fullstack/Readme.md`](Interview_Prep/Plan/Fullstack/Readme.md)) как расписание.
 3. Следуй этому расписанию в соответствии со своими временными ограничениями
 4. Используй roadmap (этот документ) как единый справочник и систему приоритетов. Начни с [чек-листа навыков](#чек-лист-навыков-java-backend--fullstack-разработчика-middle), а затем переходи к соответствующим разделам roadmap по мере продвижения по календарному плану.
 5. Для каждого изучаемого раздела выполняй практику, не только читай теорию.
